@@ -1,0 +1,8 @@
+{
+  "name": "TradeMaster Signal Pro",
+  "description": "A professional binary trading signal platform for Quotex OTC markets, featuring real-time signal generation, technical indicator analysis, and performance tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
